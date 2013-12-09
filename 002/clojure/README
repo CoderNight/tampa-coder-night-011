@@ -1,0 +1,4 @@
+to run:
+clj wordsearch.clj ../input.txt
+
+see video: http://youtu.be/2O1odkBcYPg

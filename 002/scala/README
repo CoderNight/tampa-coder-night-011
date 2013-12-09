@@ -1,0 +1,5 @@
+to run:
+
+scala WordSearch.scala ../input.txt
+
+see video http://youtu.be/EFgvwCuhEeI

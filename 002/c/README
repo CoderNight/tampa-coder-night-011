@@ -1,0 +1,5 @@
+to run:
+make wordsearch
+./wordsearch ../input.txt
+
+see video: http://youtu.be/Gjiwgnpv-5s

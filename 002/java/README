@@ -1,0 +1,6 @@
+to run:
+
+javac wordsearch/src/wordsearch/WordSearch.java
+java -cp  wordsearch/src wordsearch.WordSearch ../input.txt
+
+see video http://youtu.be/T6-9MOEoxPM
