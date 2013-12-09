@@ -1,0 +1,4 @@
+to run:
+runghc wordsearch.hs ../input.txt
+
+see video: https://www.youtube.com/watch?v=ZhAf7XLVO-g

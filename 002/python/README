@@ -1,0 +1,4 @@
+to run:
+python wordsearch.py ../input.txt
+
+see video: http://youtu.be/NAfAqs1hjGs
